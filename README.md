@@ -3,4 +3,5 @@ This is a precision CV source and adder. It has four independent CV inputs with 
 
 Each section provides a different voltage to be added to the input: +/- 2v, +/- 1v, +/- .5833333v (a fifth), +/- .4166666v (a fourth)
 
-![Precision Adder](adder.jpg)
+![Precision Adder](adder-front.JPG)
+![Precision Adder](adder-side.JPG)
